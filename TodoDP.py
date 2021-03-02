@@ -1,3 +1,8 @@
+#追記2021/03/02
+#このコードは2019年末に書いたはてブの戯言に使ったコードです。
+#https://perarduaadastra.hatenablog.com/entry/2019/12/24/055250
+
+
 import sys
 input = sys.stdin.readline
 N = int(input())
